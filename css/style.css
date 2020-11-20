@@ -1,0 +1,42 @@
+/*
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+*/
+#idwidth_100px {
+    width: 100px;
+}
+#id2width_100px {
+    width: 100px;
+}
+
+p {
+    margin: 0.5em;
+}
+
+.color_blue {
+    background-color: #64d9fa;  /* blue */
+    border:none;
+}
+.color-pink {
+    background-color: #f060b4;  /* pink */
+    border: none;
+}
+
+/* color codes */
+
+/*    color: #f060b4; */ /* pink on logo */ 
+/*    color: #e91691; */ /* dark pink */
+/*    color: #bb1174; */ /* darker pink */ 
+
+/*    color: #64d9fa; */ /* blue on logo */ 
+/*    color: #08c3f7; */ /* dark blue */
+/*    color: #069cc6; */ /* darker blue */ 
+
